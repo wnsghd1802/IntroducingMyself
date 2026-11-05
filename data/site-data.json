@@ -1,0 +1,15 @@
+{
+  "updated_at": "2026-11-04",
+  "source_period": { "from": "2026-08-11", "to": "2026-10-21" },
+  "ritual": {
+    "days_with_entries": 44,
+    "weeks_with_entries_iso": 11,
+    "self_assessed_full": 18,
+    "self_assessed_partial": 20,
+    "self_assessed_not_done": 6
+  },
+  "research": { "public_chat_records": 2399, "keyword_mean_f1": 0.5334, "token_score_mean_f1": 0.6849 },
+  "observations": { "as_of": "2026-11-03", "reported_matches": 17, "suspected_cases": 2, "independently_verified": false },
+  "provenance": "2026-11-04 BR-A 기존 공개용 집계 자료와 사용자 경기 관찰 보고를 재구성한 스냅샷. 원시 리추얼 입력은 포함하지 않음.",
+  "caveat": "리추얼 자기평가이며 교육 출석률 또는 과제 성공률 아님"
+}
